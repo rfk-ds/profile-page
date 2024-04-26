@@ -1,0 +1,226 @@
+html {
+    overflow-x: hidden;
+  }
+  
+  body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Courier New', Courier, monospace;
+      background-color: white;
+  }
+  
+  header {
+      background-color: #131313;
+      width: 100%;
+      height: 200px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: #ffd500;
+      background-image: url(img/brilhos.gif);
+  }
+  
+  header h1 {
+      margin: 0;   
+  }
+  
+  header p {
+      margin: 0;
+  }
+  
+  #container-nav-page {
+      height: 50px;
+      width: 100%;
+      background-color: #131313;
+  }
+  
+  #nav-top {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px;
+      margin-top: 0.5px;
+      margin-left: 50px;
+      margin-right: 50px;
+  }
+  
+  .nav-top {
+      display: flex;
+      margin: 30px;
+      font-size: 1.3rem;
+      color: #ffd500;
+      text-decoration: none;
+  }
+  
+  .nav-top:hover {
+      color: #131313;
+      background-color: #ffd500;
+  }
+  
+  #container {
+      display: flex;
+      margin-top: 8px;
+      justify-content: center;
+  }
+  
+  main {
+      width: 64.4%;
+      background-color: #f0bd05;
+      margin-right: 10px;
+  }
+  
+  aside {
+      background-color: #131313;
+      padding: 50px;
+      margin-left: 12px;
+  }
+  
+  #moldura-aside {
+      background-color: #131313;
+      border: 2px solid #515151;
+      padding: 70px;
+      color: #515151;
+      width: 400px;
+      height: 85%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+  }
+  
+  .avatar {
+    width: 300px;
+  }
+  
+  aside h2 {
+    color: #ffd500;
+    text-align: center;
+  }
+  
+  aside span {
+      font-size: 1.2rem;
+      font-weight: bold;
+      color: #ffd500;
+  }
+  
+  #hashtags {
+    display: flex;
+  }
+  
+  #hashtags ul {
+    list-style-type: none;
+    color: #ffd500;
+  }
+  
+  main h2 {
+      background-color: #131313;
+      color: #ffd500;
+      padding: 5px;
+      margin: 0;
+      height: 30px;
+      padding-left: 30px;
+      margin-left: 12px;
+      margin-right: 12px;
+      margin-bottom: 15px;
+      text-align: center;
+      margin-top: 50px;
+      box-shadow: 5px 5px 8px #131313;
+  }
+  
+  .ferramentas {
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+      flex-wrap: wrap;
+      padding: 20px;
+  }
+  
+  .img-logos {
+      width: 80px;
+  }
+  
+  .img-logos:hover {
+      transform: scale(1.4);
+  }
+  
+  .educacao {
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      color: #131313;
+  }
+  
+  .educacao span {
+    font-weight: bold;
+    font-size: 1.3rem;
+  }
+  
+  .projetos {
+      margin-left: 40px;
+      display: flex;
+      flex-wrap: wrap;
+  }
+  
+  .projetos a {
+      color: #131313;
+      font-weight: bold;
+      border: 2px solid #131313;
+      border-radius: 10px;
+      padding: 10px;
+      margin-bottom: 40px;
+      text-decoration: none;
+      box-shadow: 5px 5px 8px black;
+  }
+  
+  .projetos p {
+    width: 80%;
+    margin-bottom: 15px;
+    color: #131313;
+  }
+  
+  
+  .projetos a:hover {
+      background-color: #131313;
+      color: #ffd500;
+      text-decoration: none;
+  }
+  
+  footer {
+      background: #131313;
+      padding: 30px;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+  }
+  
+  footer p {
+      color: #ffd500;
+      margin-left: 20px;
+  }
+  
+  footer a {
+      text-decoration: none;
+      color: #ffd500;
+      border: 1px solid #515151;
+      padding: 7px;
+      margin: 8px;
+      box-shadow: 5px 5px 5px #ffd500;
+  }
+  
+  footer a:hover {
+      color: #131313;
+      background-color: #ffd500;
+  }
+  
+  #voltar {
+    width: 100px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
+  
+  #voltar:hover {
+    transform: scale(1.2);
+  }
