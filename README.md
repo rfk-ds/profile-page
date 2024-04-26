@@ -6,7 +6,7 @@ Meu nome é Rafiki Dias. Sou um entusiasta de tecnologia, atualmente em formaç�
 
 ## Estrutura do Projeto
 
-Este projeto de portfólio é uma representação do meu aprendizado e habilidades até o momento. Ele foi desenvolvido principalmente em HTML, CSS e JavaScript. A seguir, uma descrição das seções principais:
+Este projeto de portfólio é uma representação do meu aprendizado e habilidades até o momento. Ele foi desenvolvido principalmente em HTML e CSS. A seguir, uma descrição das seções principais:
 
 - **Cabeçalho:** Apresenta meu nome e uma breve descrição sobre mim.
   
