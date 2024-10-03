@@ -1,28 +1,17 @@
-# Portfólio de Rafiki Dias
+<h1>Portfólio (profile page)</h1>
 
-## Sobre Mim
+<h2>Sobre Mim</h2>
+<p>Olá, meu nome é <strong>Rafiki Dias</strong>. Sou um entusiasta de tecnologia e estou atualmente em formação como analista de sistemas.</p>
 
-Meu nome é Rafiki Dias. Sou um entusiasta de tecnologia, atualmente em formação como desenvolvedor Fullstack. Busco constantemente aprender e aprimorar minhas habilidades na área de desenvolvimento de software. Embora esteja no início da minha jornada, estou ansioso para mergulhar em projetos desafiadores e crescer profissionalmente.
+<h2>Estrutura do Projeto</h2>
+<p>Este portfólio representa meu aprendizado e minhas habilidades até o momento (1° trimestre da graduação). O projeto foi desenvolvido utilizando <strong>HTML</strong> e <strong>CSS</strong>, e está estruturado em seções principais para facilitar a navegação:</p>
 
-## Estrutura do Projeto
-
-Este projeto de portfólio é uma representação do meu aprendizado e habilidades até o momento. Ele foi desenvolvido principalmente em HTML e CSS. A seguir, uma descrição das seções principais:
-
-- **Cabeçalho:** Apresenta meu nome e uma breve descrição sobre mim.
-  
-- **Navegação:** Barra de navegação para facilitar o acesso às diferentes seções do portfólio.
-  
-- **Sobre Mim:** Informações pessoais e profissionais sobre minha jornada e objetivos como desenvolvedor.
-
-- **Ferramentas:** Lista das tecnologias que pretendo aprender ao longo do curso, como HTML5, CSS3, JavaScript, React, C#, Java, Python, Linux e SQL.
-
-- **Educação:** Resumo da minha formação acadêmica, incluindo cursos e programas relevantes.
-
-- **Projetos:** Descrição dos projetos futuros que pretendo realizar durante meu curso de Análise e Desenvolvimento de Sistemas (ADS).
-
-- **Contato:** Informações para contato, incluindo número de telefone, endereço de e-mail e links para minhas redes sociais.
-
-## Próximos Passos
-
-Os próximos passos incluem a implementação de links funcionais para os projetos listados, conforme avanço no curso de ADS. Além disso, pretendo aprimorar este portfólio com novas seções à medida que adquiro mais experiência e habilidades na área de desenvolvimento de software.
-
+<ul>
+  <li><strong>Cabeçalho:</strong> Apresenta meu nome e uma breve descrição sobre mim.</li>
+  <li><strong>Navegação:</strong> Uma barra de navegação para facilitar o acesso às diferentes seções do portfólio.</li>
+  <li><strong>Sobre Mim:</strong> Informações pessoais e profissionais sobre minha trajetória e meus objetivos como desenvolvedor.</li>
+  <li><strong>Ferramentas:</strong> Tecnologias que pretendo dominar ao longo da minha formação, como HTML5, CSS3, JavaScript, React, C#, Java, Python, Linux e SQL.</li>
+  <li><strong>Educação:</strong> Resumo da minha formação acadêmica, com destaque para cursos e programas relevantes.</li>
+  <li><strong>Projetos:</strong> Descrição dos projetos futuros que pretendo desenvolver durante o curso de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>.</li>
+  <li><strong>Contato:</strong> Informações para contato, como telefone, e-mail e links para minhas redes sociais.</li>
+</ul>
